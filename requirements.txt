@@ -1,0 +1,10 @@
+torch>=1.10.0
+torchvision
+torchaudio
+numpy
+Pillow
+scikit-image
+tqdm
+thop
+matplotlib
+torchviz 

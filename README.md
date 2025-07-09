@@ -3,7 +3,8 @@ WaterNet is a deep learning-based method for underwater image enhancement, intro
 
 "Water-Net: An Underwater Image Enhancement Model Based on Water Type Classification"
 by Chongyi Li, Jichang Guo, Fatih Porikli (TIP, 2019)
-🔗 Paper Link
+🔗 [Paper Link](https://arxiv.org/abs/1901.05495)
+
 ---
 
 WaterNet method for enhancing underwater images uses a fusion of color correction techniques and confidence-based weighting.

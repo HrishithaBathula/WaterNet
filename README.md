@@ -22,11 +22,11 @@ This implementation supports training and testing in both Google Colab and termi
  
 ---
 
-## 🖥️ For VS Code / Terminal
+##  For VS Code / Terminal
 
-> ✅ Recommended for GPU-enabled desktops or laptops.
+>  Recommended for GPU-enabled desktops or laptops.
 
-### 🔧 Setup
+###  Setup
 ```bash
 pip install torch torchvision thop torchinfo pillow tqdm graphviz (or) pip install requirements.txt
 choco install graphviz (or) conda install -c conda-forge python-graphviz (optional for model architecture)
@@ -40,11 +40,11 @@ type waternet_architecture.txt
 ```
 ---
 
-## 🚀 For Google Colab 
+##  For Google Colab 
 
-> ✅ Recommended for systems without GPUs.
+>  Recommended for systems without GPUs.
 
-### 🔧 Setup
+###  Setup
 ```bash
 !pip install torch torchvision thop torchinfo pillow tqdm
 !apt install graphviz
